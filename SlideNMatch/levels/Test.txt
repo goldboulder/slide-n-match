@@ -1,0 +1,6 @@
+4
+b b b b 
+b x x x 
+b x x x 
+b x x x 
+0
